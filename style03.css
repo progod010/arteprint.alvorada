@@ -93,3 +93,9 @@ ul {
 .center {
     text-align: center;
 }
+.h1 {
+        text-align: center;
+        color: #DB7093;
+        font-family: sans-serif;
+        text-shadow: 2px 2px 25px;
+}

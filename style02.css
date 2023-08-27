@@ -1,3 +1,9 @@
 body {
     background-image: linear-gradient(to right, #FFB6C1, #EED5D2);
 }
+.h1 {
+    text-align: center;
+    color: #DB7093;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 25px;
+}
