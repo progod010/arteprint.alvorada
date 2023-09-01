@@ -45,7 +45,7 @@ body {
         display: inline-block;}
 
 .menu li a:hover {
-        color: white;
+        color: rgb(255, 255, 255);
         text-shadow: 2px 2px 25px;
         font-family: sans-serif;
         transform: scale(0.9);}
