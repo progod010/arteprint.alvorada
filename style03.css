@@ -99,3 +99,13 @@ ul {
         font-family: sans-serif;
         text-shadow: 2px 2px 25px;
 }
+hr {
+    border: none;
+    height: 4px;
+    background-color: #DB7093;
+    box-shadow: 2px 2px 15px #FFB6C1;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 13px;
+    border-radius: 10px;
+}
